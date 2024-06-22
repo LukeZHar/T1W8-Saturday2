@@ -50,4 +50,6 @@ Note: Great idea to organise your directory structure for maintenance and easy a
     - Read
     - Write
     - Close (why? close ensure the buffers are flused and resources are freed.)
-- 'with' statement:
+- 'with' statement: Automatically closes file when done
+
+
